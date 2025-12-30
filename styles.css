@@ -63,7 +63,7 @@ h1, h2, h3, h4, p {
 }
 
 #gift-img-happy:hover {
-    background-image: url("images/happy.gif");
+    background-image: url("https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Ayc2l5OHNzN2EzZDh1Z2RodGJsaDQ1eHZsMHV4OWF6NXNxOTJpcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ukmZRuEqc2Rbi/giphy.gif");
 }
 
 #gift-img-hot:hover {
@@ -71,7 +71,7 @@ h1, h2, h3, h4, p {
 }
 
 #gift-img-genius:hover {
-    background-image: url("images/genius.gif");
+    background-image: url("https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3NrbDBiY3I2N3hzMzJiMTRzanQ0aGE4YjA2djE3d2IyNHgxZWRodCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IhCYLb0ZitQe7V7xj1/giphy.gif");
 }
 
 #gift-img-badass:hover {
